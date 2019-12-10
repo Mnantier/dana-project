@@ -1,0 +1,3860 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix eus: <http://ontologycentral.com/2009/01/eurostat/ns#> .
+@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix wdt:  <http://www.wikidata.org/prop/direct/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd:  <http://www.wikidata.org/entity/> .
+
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds0> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "96068695"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds1> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "100193369"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds2> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "98685530"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds3> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "99392740"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds4> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "100361505"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds5> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "103729543"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds6> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "104495623"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds7> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "103770644"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds8> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "105621722"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds9> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "110118843"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds10> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "112558033"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds11> dbo:Country "Austria";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "116269532"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds12> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "100664327"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds13> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "104705704"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds14> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "102833458"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds15> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "103942335"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds16> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "105339968"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds17> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "109540720"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds18> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "110687373"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds19> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "110440776"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds20> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "113365901"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds21> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "117957253"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds22> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "121126543"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds23> dbo:Country "Austria";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "125229170"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds24> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "27779676"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds25> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "27907058"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds26> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "27443646"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds27> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "28419503"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds28> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "29305702"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds29> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "29037206"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds30> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "29069935"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds31> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "30006490"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds32> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "35640070"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds33> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "34600391"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds34> dbo:Country "Belgium";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "35788194"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds35> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "29849356"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds36> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "29971839"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds37> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "29250381"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds38> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "30298026"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds39> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "31379844"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds40> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "31267441"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds41> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "31448180"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds42> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "32605681"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds43> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "38380415"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds44> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "36855214"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds45> dbo:Country "Belgium";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "38677308"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds46> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "17368969"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds47> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "17170507"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds48> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "14375139"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds49> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "15016797"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds50> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "17426121"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds51> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "18852044"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds52> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "19947591"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds53> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "19753324"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds54> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "19433843"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds55> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "23856336"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds56> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "24673676"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds57> dbo:Country "Bulgaria";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "25460861"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds58> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "17976658"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds59> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "18182923"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds60> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "15277000"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds61> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "16219551"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds62> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "18656061"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds63> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "20252038"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds64> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "21617474"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds65> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "21698391"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds66> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "21397816"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds67> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "25185996"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds68> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "26054096"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds69> dbo:Country "Bulgaria";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "26845013"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds70> dbo:Country "Switzerland";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "41911369"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds71> dbo:Country "Switzerland";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "50397026"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds72> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "13913658"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds73> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "14028579"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds74> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "12584528"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds75> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "13355648"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds76> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "13809783"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds77> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "14086595"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds78> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "13624112"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds79> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "13218833"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds80> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "12776037"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds81> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "14662579"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds82> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "15997215"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds83> dbo:Country "Cyprus";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "16276200"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds84> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "14377667"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds85> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "14380375"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds86> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "13003669"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds87> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "13800788"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds88> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "14284731"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds89> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "14576573"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds90> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "14048529"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds91> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "13715342"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds92> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "13374838"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds93> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "15348884"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds94> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "16780913"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds95> dbo:Country "Cyprus";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "17164182"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds96> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "38135574"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds97> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "36656848"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds98> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "34154535"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds99> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "34039597"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds100> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "35165290"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds101> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "39600666"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds102> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "39395588"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds103> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "38678613"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds104> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "42004560"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds105> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "44259158"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds106> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "47091325"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds107> dbo:Country "Czech";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "49207373"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds108> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "40831072"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds109> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "39283474"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds110> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "36662192"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds111> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "36908811"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds112> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "38235088"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds113> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "43278457"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds114> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "43308279"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds115> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "42946929"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds116> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "47093906"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds117> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "49696957"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds118> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "53219395"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds119> dbo:Country "Czech";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "55513922"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds120> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "303691064"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds121> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "310360302"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds122> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "301765991"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds123> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "311262112"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds124> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "324191724"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds125> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "333805511"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds126> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "337262839"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds127> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "347572814"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds128> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "357164555"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds129> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "367981963"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds130> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "378820364"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds131> dbo:Country "Germany";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "396187512"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds132> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "317305835"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds133> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "323883369"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds134> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "314116259"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds135> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "325439525"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds136> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "339021466"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds137> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "350349425"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds138> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "354871005"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds139> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "366527398"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds140> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "378048084"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds141> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "388851871"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds142> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "401163218"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds143> dbo:Country "Germany";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "419556284"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds144> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "27277097"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds145> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "27204016"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds146> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "25645124"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds147> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "26243015"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds148> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "27224149"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds149> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "26940819"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds150> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "27273668"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds151> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "28320678"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds152> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "29320451"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds153> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "30235138"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds154> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "30385931"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds155> dbo:Country "Denmark";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "31378757"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds156> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "28067594"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds157> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "27977816"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds158> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "26440247"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds159> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "27134321"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds160> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "28217506"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds161> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "28040235"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds162> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "28500837"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds163> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "29646899"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds164> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "30809340"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds165> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "31896347"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds166> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "32157794"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds167> dbo:Country "Denmark";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "33280905"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds168> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "4565173"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds169> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "4501525"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds170> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "4016757"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds171> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "4571791"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds172> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "5239930"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds173> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "5358591"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds174> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "5551387"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds175> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "5587616"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds176> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "5486618"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds177> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "5928409"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds178> dbo:Country "Estonia";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "6177989"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds179> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "4674501"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds180> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "4602212"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds181> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "4122526"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds182> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "4700680"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds183> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "5399392"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds184> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "5544537"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds185> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "5734033"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds186> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "5809464"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds187> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "5781870"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds188> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "6228128"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds189> dbo:Country "Estonia";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "6509299"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds190> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "62069346"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds191> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "62544510"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds192> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "81457214"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds193> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "79986333"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds194> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "72590123"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds195> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "76321584"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds196> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "84339682"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds197> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "89165422"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds198> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "91764984"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds199> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "95060768"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds200> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "103630295"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds201> dbo:Country "Greece";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "114362965"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds202> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "65420236"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds203> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "65624563"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds204> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "85083503"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds205> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "84037672"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds206> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "87551176"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds207> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "80566670"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds208> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "89105443"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds209> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "95116395"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds210> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "98617559"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds211> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "101855381"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds212> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "111271486"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds213> dbo:Country "Greece";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "123087178"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds214> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "367850611"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds215> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "362134875"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds216> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "335298089"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds217> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "348928261"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds218> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "371713606"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds219> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "364136743"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds220> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "369727291"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds221> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "382680282"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds222> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "398082962"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds223> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "428358054"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds224> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "440835238"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds225> dbo:Country "Spain";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "434992894"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds226> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "381460113"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds227> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "375709669"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds228> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "348554457"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds229> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "364879963"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds230> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "389876707"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds231> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "382670975"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds232> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "389211984"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds233> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "403963023"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds234> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "422226376"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds235> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "454957250"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds236> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "471199729"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds237> dbo:Country "Spain";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "466912807"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds238> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "2206462769"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds239> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "1574844414"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds240> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "2319747717"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds241> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "2259299809"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds242> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "2286921325"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds243> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "2412714698"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds244> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "2451294201"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds245> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "2497601228"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds246> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "2654235793"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds247> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "2764069400"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds248> dbo:Country "Europe";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "2872461521"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds249> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "2351580818"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds250> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "1694523859"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds251> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "2462515086"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds252> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "2414802467"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds253> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "2476704111"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds254> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "2592881495"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds255> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "2646945365"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds256> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "2688755589"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds257> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "2943910739"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds258> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "3053868236"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds259> dbo:Country "Europe";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "3184056270"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds260> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "18066335"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds261> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "18485554"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds262> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "17728244"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds263> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "18374664"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds264> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "19000123"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds265> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "19240593"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds266> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "19104856"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds267> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "18587983"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds268> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "18384066"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds269> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "18757348"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds270> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "20034459"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds271> dbo:Country "Finland";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "20286431"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds272> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "19036665"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds273> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "19465620"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds274> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "18567338"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds275> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "19248057"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds276> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "19987871"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds277> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "20317582"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds278> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "20241057"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds279> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "19786022"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds280> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "19738123"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds281> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "20343433"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds282> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "21914154"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds283> dbo:Country "Finland";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "22235084"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds284> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "283196907"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds285> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "283796150"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds286> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "278718287"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds287> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "353757336"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds288> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "361105684"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds289> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "375897752"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds290> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "380473583"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds291> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "374121810"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds292> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "380762594"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds293> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "378038671"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds294> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "402374075"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds295> dbo:Country "France";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "407036594"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds296> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "301962648"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds297> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "301038936"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds298> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "294689672"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds299> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "371548346"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds300> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "400994321"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds301> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "401027391"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds302> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "408126035"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds303> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "402315167"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds304> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "410052887"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds305> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "404734050"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds306> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "433058728"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds307> dbo:Country "France";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "442760051"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds308> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "37375257"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds309> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "37566453"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds310> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "36613152"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds311> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "36031805"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds312> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "38109198"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds313> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "60495563"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds314> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "62397843"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds315> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "63608567"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds316> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "68293469"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds317> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "74400286"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds318> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "81680487"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds319> dbo:Country "Croatia";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "84516442"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds320> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "38318838"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds321> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "38532072"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds322> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "37484621"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds323> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "37009182"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds324> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "39250790"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds325> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "62183925"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds326> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "64418292"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds327> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "66124991"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds328> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "71339000"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds329> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "77824114"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds330> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "86094847"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds331> dbo:Country "Croatia";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "89567653"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds332> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "18723119"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds333> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "18724722"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds334> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "17612430"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds335> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "17765592"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds336> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "18060300"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds337> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "21655736"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds338> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "22647028"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds339> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "24091834"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds340> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "25247948"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds341> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "26809619"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds342> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "28688977"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds343> dbo:Country "Hungary";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "29657215"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds344> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "20128534"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds345> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "19974414"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds346> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "18709746"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds347> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "19030734"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds348> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "19434914"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds349> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "23169533"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds350> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "24426148"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds351> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "26053873"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds352> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "27542898"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds353> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "29291168"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds354> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "31608719"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds355> dbo:Country "Hungary";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "32830120"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds356> dbo:Country "Ireland";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "29425196"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds357> dbo:Country "Ireland";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "28954731"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds358> dbo:Country "Ireland";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "24751087"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds359> dbo:Country "Ireland";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "23695667"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds360> dbo:Country "Ireland";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "23474575"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds361> dbo:Country "Ireland";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "25351255"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds362> dbo:Country "Ireland";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "25166993"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds363> dbo:Country "Ireland";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "25473893"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds364> dbo:Country "Ireland";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "35983194"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds365> dbo:Country "Ireland";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "34873000"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds366> dbo:Country "Ireland";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "30567544"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds367> dbo:Country "Ireland";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "29282163"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds368> dbo:Country "Ireland";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "29166381"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds369> dbo:Country "Ireland";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "29707674"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds370> dbo:Country "Ireland";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "31105668"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds371> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "2220776"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds372> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "2214964"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds373> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "2388725"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds374> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "2436983"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds375> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "2509133"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds376> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "3060284"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds377> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "3526234"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds378> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "4384571"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds379> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "4916451"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds380> dbo:Country "Iceland";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "5387163"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds381> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "2602054"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds382> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "2673060"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds383> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "2863922"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds384> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "2937274"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds385> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "3172441"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds386> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "3719126"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds387> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "4280685"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds388> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "5489883"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds389> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "6536277"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds390> dbo:Country "Iceland";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "7808316"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds391> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "347058595"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds392> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "346199214"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds393> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "344768331"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds394> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "346954142"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds395> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "354713489"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds396> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "347591973"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds397> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "342716139"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds398> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "342326085"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds399> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "352375880"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds400> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "363237692"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds401> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "377623533"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds402> dbo:Country "Italy";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "382406746"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds403> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "376641751"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds404> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "373666712"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds405> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "370762377"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds406> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "375542550"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds407> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "386894732"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds408> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "380711483"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds409> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "376785615"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds410> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "377770806"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds411> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "392874070"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds412> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "402962113"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds413> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "420629155"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds414> dbo:Country "Italy";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "428844937"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds415> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "169213"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds416> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "175364"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds417> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "166236"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds418> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "156644"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds419> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "155551"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds420> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "124033"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds421> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "121134"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds422> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "117803"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds423> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "97989"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds424> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "114199"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds425> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "129785"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds426> dbo:Country "Liechtenstein";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "140527"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds427> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "183360"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds428> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "187306"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds429> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "176340"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds430> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "166835"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds431> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "167120"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds432> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "141042"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds433> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "135303"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds434> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "132272"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds435> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "112484"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds436> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "130816"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds437> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "150624"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds438> dbo:Country "Liechtenstein";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "162161"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds439> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "3163518"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds440> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "3136857"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds441> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "2448553"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds442> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "2676632"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds443> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "3120686"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds444> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "5544282"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds445> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "5865588"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds446> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "6184267"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds447> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "6293869"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds448> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "6654057"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds449> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "6974789"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds450> dbo:Country "Lithuania";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "7645973"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds451> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "3263661"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds452> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "3249339"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds453> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "2548114"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds454> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "2792135"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds455> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "3266858"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds456> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "5741252"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds457> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "6089056"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds458> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "6465004"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds459> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "6581192"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds460> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "6992674"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds461> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "7364924"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds462> dbo:Country "Lithuania";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "8091647"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds463> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "2366641"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds464> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "2271799"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds465> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "2107909"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds466> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "1712360"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds467> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "2036249"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds468> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "2304594"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds469> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "2433742"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds470> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "2630379"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds471> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "2712111"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds472> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "2696006"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds473> dbo:Country "Luxembourg";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "2641951"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds474> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "2527820"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds475> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "2432004"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds476> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "2248139"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds477> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "1845308"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds478> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "2237724"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds479> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "2543830"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds480> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "2637481"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds481> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "2867811"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds482> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "2979464"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds483> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "2955593"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds484> dbo:Country "Luxembourg";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "2891628"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds485> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "3211559"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds486> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "3372346"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds487> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "2451803"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds488> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "2707721"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds489> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "3169951"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds490> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "3400352"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds491> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "3527936"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds492> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "3852243"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds493> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "3771454"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds494> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "4162003"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds495> dbo:Country "Latvia";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "4619315"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds496> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "3324690"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds497> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "3501063"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds498> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "2543111"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds499> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "2834104"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds500> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "3294232"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds501> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "3546736"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds502> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "3775192"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds503> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "4158418"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds504> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "4109910"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds505> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "4416597"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds506> dbo:Country "Latvia";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "4950929"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds507> dbo:Country "Montenegro";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "3095323"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds508> dbo:Country "Montenegro";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "9000886"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds509> dbo:Country "Montenegro";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "10837494"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds510> dbo:Country "Montenegro";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "10989910"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds511> dbo:Country "Montenegro";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "3621911"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds512> dbo:Country "Montenegro";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "3170519"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds513> dbo:Country "Montenegro";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "9151236"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds514> dbo:Country "Montenegro";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "11054947"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds515> dbo:Country "Montenegro";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "11250005"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds516> dbo:Country "Montenegro";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "3890370"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds517> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "1280951"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds518> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "1245118"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds519> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "1212505"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds520> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "1374121"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds521> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "1400914"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds522> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "1430850"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds523> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "1439920"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds524> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "1543897"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds525> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "1581612"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds526> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "1831792"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds527> dbo:Country "Macedonia";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "2046512"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds528> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "1354266"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds529> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "1313992"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds530> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "1266095"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds531> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "1435015"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds532> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "1459771"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds533> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "1499077"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds534> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "1519013"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds535> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "1640003"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds536> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "1695084"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds537> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "1975211"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds538> dbo:Country "Macedonia";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "2211589"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds539> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "7692824"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds540> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "7510843"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds541> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "6514651"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds542> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "7224992"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds543> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "7154126"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds544> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "7273456"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds545> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "7898115"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds546> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "8094304"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds547> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "8327194"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds548> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "8341345"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds549> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "8911463"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds550> dbo:Country "Malta";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "9337102"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds551> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "8082229"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds552> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "7918223"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds553> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "6903106"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds554> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "7612280"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds555> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "7652369"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds556> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "7832229"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds557> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "8501147"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds558> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "8780948"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds559> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "8915297"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds560> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "8971191"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds561> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "9580328"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds562> dbo:Country "Malta";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "10114196"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds563> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "84331700"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds564> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "81046400"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds565> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "81181000"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds566> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "80942400"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds567> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "81160500"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds568> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "79769866"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds569> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "91517699"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds570> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "94748703"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds571> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "98058300"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds572> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "100382433"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds573> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "104724495"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds574> dbo:Country "Netherlands";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "108829892"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds575> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "88266900"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds576> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "84452200"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds577> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "84516100"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds578> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "84873000"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds579> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "85368400"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds580> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "84050384"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds581> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "96074132"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds582> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "99751562"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds583> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "103534301"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds584> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "106212858"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds585> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "111697813"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds586> dbo:Country "Netherlands";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "116081577"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds587> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "27797180"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds588> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "27779301"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds589> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "27294258"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds590> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "27686606"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds591> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "28133924"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds592> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "28910449"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds593> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "28177868"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds594> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "29335699"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds595> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "30067571"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds596> dbo:Country "Norway";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "31240874"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds597> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "28663930"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds598> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "28595454"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds599> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "28026831"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds600> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "28541300"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds601> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "29074313"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds602> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "29914832"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds603> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "29310429"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds604> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "30614057"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds605> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "31591222"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds606> dbo:Country "Norway";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "32974578"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds607> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "53658192"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds608> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "55514301"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds609> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "53923715"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds610> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "54507748"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds611> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "55851464"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds612> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "60556834"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds613> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "61360006"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds614> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "64892893"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds615> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "69430648"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds616> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "77233118"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds617> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "81486259"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds618> dbo:Country "Poland";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "86257083"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds619> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "54953722"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds620> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "56645518"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds621> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "55020067"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds622> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "55794467"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds623> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "57148253"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds624> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "62014890"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds625> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "62959452"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds626> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "66579589"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds627> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "71234421"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds628> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "79393860"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds629> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "83880915"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds630> dbo:Country "Poland";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "88860463"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds631> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "45529147"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds632> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "44851423"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds633> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "42088643"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds634> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "42362894"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds635> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "43751864"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds636> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "43352964"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds637> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "45929227"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds638> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "50232219"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds639> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "54319503"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds640> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "60078274"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds641> dbo:Country "Portugal";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "64132641"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds642> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "47964609"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds643> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "47328702"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds644> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "44364742"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds645> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "45035005"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds646> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "46857858"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds647> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "46781091"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds648> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "49888259"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds649> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "54979437"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds650> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "59419938"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds651> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "66014226"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds652> dbo:Country "Portugal";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "72035786"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds653> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "19961467"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds654> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "20142905"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds655> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "16858279"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds656> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "15505964"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds657> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "17387520"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds658> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "18462099"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds659> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "18623928"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds660> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "19315802"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds661> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "22223199"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds662> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "23988791"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds663> dbo:Country "Romania";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "25485727"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds664> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "20593349"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds665> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "20725981"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds666> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "17325410"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds667> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "16051135"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds668> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "17979439"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds669> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "19091379"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds670> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "19301768"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds671> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "20230245"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds672> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "23445286"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds673> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "25274649"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds674> dbo:Country "Romania";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "26915573"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds675> dbo:Country "Serbia";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "6178349"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds676> dbo:Country "Serbia";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "6120218"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds677> dbo:Country "Serbia";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "5693144"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds678> dbo:Country "Serbia";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "6288650"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds679> dbo:Country "Serbia";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "7148373"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds680> dbo:Country "Serbia";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "6359685"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds681> dbo:Country "Serbia";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "6368597"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds682> dbo:Country "Serbia";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "5954322"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds683> dbo:Country "Serbia";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "6619439"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds684> dbo:Country "Serbia";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "7502498"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds685> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "47003913"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds686> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "45095662"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds687> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "45998210"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds688> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "46292649"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds689> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "46518650"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds690> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "46594486"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds691> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "47619960"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds692> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "49767419"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds693> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "52598162"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds694> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "53897889"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds695> dbo:Country "Sweden";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "54865824"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds696> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "48605245"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds697> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "46540868"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds698> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "47390976"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds699> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "47900298"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds700> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "48422673"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds701> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "48585972"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds702> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "49710427"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds703> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "52280371"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds704> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "55611847"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds705> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "57234148"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds706> dbo:Country "Sweden";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "58683201"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds707> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "7616490"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds708> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "8477991"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds709> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "8204476"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds710> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "8053852"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds711> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "8446037"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds712> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "8875593"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds713> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "8872429"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds714> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "8773927"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds715> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "9375623"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds716> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "10079157"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds717> dbo:Country "Slovenia";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "11333697"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds718> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "7992710"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds719> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "8870148"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds720> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "8556122"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds721> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "8424741"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds722> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "8860328"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds723> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "9406009"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds724> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "9471571"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds725> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "9470452"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds726> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "10224207"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds727> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "11057731"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds728> dbo:Country "Slovenia";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "12460084"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds729> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "11070353"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds730> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "11920290"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds731> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "9972388"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds732> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "9897461"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds733> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "10027938"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds734> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "10341819"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds735> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "10916070"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds736> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "10398205"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds737> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "11637734"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds738> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "13325129"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds739> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "13999626"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds740> dbo:Country "Slovakia";
+  eus:geo "EUR";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "14518286"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds741> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "11422643"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds742> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "12259115"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds743> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "10252657"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds744> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "10240479"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds745> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "10415637"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds746> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "10770328"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds747> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2013"^^xsd:integer;
+  sdmx-measure:obsValue "11345641"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds748> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2014"^^xsd:integer;
+  sdmx-measure:obsValue "10781015"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds749> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "12176275"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds750> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "13894782"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds751> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2017"^^xsd:integer;
+  sdmx-measure:obsValue "14667937"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds752> dbo:Country "Slovakia";
+  eus:geo "WORLD";
+  dcterms:date "2018"^^xsd:integer;
+  sdmx-measure:obsValue "15188140"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds753> dbo:Country "United_Kingdom";
+  eus:geo "EUR";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "228291693"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds754> dbo:Country "United_Kingdom";
+  eus:geo "EUR";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "222804312"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds755> dbo:Country "United_Kingdom";
+  eus:geo "EUR";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "231151598"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds756> dbo:Country "United_Kingdom";
+  eus:geo "EUR";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "201103620"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds757> dbo:Country "United_Kingdom";
+  eus:geo "EUR";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "196805038"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds758> dbo:Country "United_Kingdom";
+  eus:geo "EUR";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "264489184"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds759> dbo:Country "United_Kingdom";
+  eus:geo "EUR";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "348068470"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds760> dbo:Country "United_Kingdom";
+  eus:geo "EUR";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "361452050"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds761> dbo:Country "United_Kingdom";
+  eus:geo "WORLD";
+  dcterms:date "2007"^^xsd:integer;
+  sdmx-measure:obsValue "261884251"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds762> dbo:Country "United_Kingdom";
+  eus:geo "WORLD";
+  dcterms:date "2008"^^xsd:integer;
+  sdmx-measure:obsValue "251505661"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds763> dbo:Country "United_Kingdom";
+  eus:geo "WORLD";
+  dcterms:date "2009"^^xsd:integer;
+  sdmx-measure:obsValue "262204519"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds764> dbo:Country "United_Kingdom";
+  eus:geo "WORLD";
+  dcterms:date "2010"^^xsd:integer;
+  sdmx-measure:obsValue "234263131"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds765> dbo:Country "United_Kingdom";
+  eus:geo "WORLD";
+  dcterms:date "2011"^^xsd:integer;
+  sdmx-measure:obsValue "231257831"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds766> dbo:Country "United_Kingdom";
+  eus:geo "WORLD";
+  dcterms:date "2012"^^xsd:integer;
+  sdmx-measure:obsValue "310135542"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds767> dbo:Country "United_Kingdom";
+  eus:geo "WORLD";
+  dcterms:date "2015"^^xsd:integer;
+  sdmx-measure:obsValue "465438028"^^xsd:integer .
+
+<http://estatwrap.ontologycentral.com/id/tin00176#ds768> dbo:Country "United_Kingdom";
+  eus:geo "WORLD";
+  dcterms:date "2016"^^xsd:integer;
+  sdmx-measure:obsValue "476356100"^^xsd:integer .
